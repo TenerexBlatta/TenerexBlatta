@@ -6,17 +6,6 @@
   <img src="assets/system-scan.svg" alt="Profile overview" />
 </p>
 
-## 👋 About me
-
-I'm **Tomás**, a Computer Science Engineering student from **Chile** who has been on the internet since playing web games on Bubblebox back in 2007. Today I build things instead of just playing them:
-
-- 🧱 **Systems & fundamentals** — data structures and algorithms in **C**, object-oriented design in **Java**.
-- 🌐 **Full-stack web** — interfaces with **React / Next.js** and APIs with **Node.js + Express**.
-- 🛠️ **Shipping** — versioning with **Git**, containers with **Docker**, everyday work on **Linux**.
-- 🎯 **Currently** — polishing my projects, writing cleaner code and learning by building.
-
-## 🧰 Tech stack
-
 <p align="center">
   <img src="assets/tech-stack.svg" alt="Tech stack" />
 </p>
@@ -35,13 +24,6 @@ I'm **Tomás**, a Computer Science Engineering student from **Chile** who has be
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <br />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
   <br />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -50,23 +32,11 @@ I'm **Tomás**, a Computer Science Engineering student from **Chile** who has be
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-## 🚀 Featured projects
-
 <p align="center">
   <img src="assets/projects.svg" alt="Featured projects" />
 </p>
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**block-breaker-2025**](https://github.com/tenerexblatta/block-breaker-2025) | Arcade brick-breaker game built around object-oriented design. | Java |
-| [**Proyecto-SIA-Programacion-Avanzada**](https://github.com/tenerexblatta/Proyecto-SIA-Programacion-Avanzada) | Event management system developed for the Advanced Programming course. | Java |
-| [**MuniStoDomingo-Tramites**](https://github.com/tenerexblatta/MuniStoDomingo-Tramites) | Web portal to handle municipal procedures online. | HTML · CSS · JavaScript |
-| [**INF2223-Estructura-de-Datos**](https://github.com/tenerexblatta/INF2223-Estructura-de-Datos) | Data structures coursework: trees, linked nodes and ADTs. | C |
-
-## 📫 Contact
 
 <p align="center">
   <a href="https://github.com/tenerexblatta"><img src="https://img.shields.io/badge/GitHub-tenerexblatta-181717?style=flat-square&logo=github" alt="GitHub" /></a>
 </p>
 
-<p align="center"><sub>⚡ Building · Learning · Shipping</sub></p>
