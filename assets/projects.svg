@@ -1,32 +1,32 @@
 <svg style="white-space:pre" xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img" aria-label="Projects list">
   <defs>
     <radialGradient id="g" cx="25%" cy="0%" r="60%">
-      <stop offset="0%" stop-color="#0a8f1a" stop-opacity="0.6"/>
-      <stop offset="100%" stop-color="#0a8f1a" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#b8561a" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#b8561a" stop-opacity="0"/>
     </radialGradient>
     <clipPath id="clip"><rect x="2" y="2" width="796" height="416" rx="22"/></clipPath>
   </defs>
 
-  <rect x="2" y="2" width="796" height="416" rx="22" fill="#04140a" stroke="#0f7a2a" stroke-width="1.5"/>
+  <rect x="2" y="2" width="796" height="416" rx="22" fill="#150b04" stroke="#8a4a1c" stroke-width="1.5"/>
   <g clip-path="url(#clip)"><rect width="800" height="420" fill="url(#g)"/></g>
 
-  <text x="28" y="44" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#22c55e" letter-spacing="2">PROJECTS.LIST</text>
-  <text x="170" y="44" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#86efac"><tspan fill="#22c55e">$</tspan> ./projects.sh --all</text>
-  <text x="772" y="44" text-anchor="end" font-family="Courier New, monospace" font-size="11" fill="#4ade80">4 projects</text>
-  <line x1="28" y1="58" x2="772" y2="58" stroke="#0f7a2a"/>
+  <text x="28" y="44" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#f0782d" letter-spacing="2">PROJECTS.LIST</text>
+  <text x="170" y="44" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#f8c99a"><tspan fill="#f0782d">$</tspan> ./projects.sh --all</text>
+  <text x="772" y="44" text-anchor="end" font-family="Courier New, monospace" font-size="11" fill="#fb9a4b">4 projects</text>
+  <line x1="28" y1="58" x2="772" y2="58" stroke="#8a4a1c"/>
 
   <!-- card 1 -->
   <g>
-    <rect x="28" y="76" width="360" height="150" rx="12" fill="#031208" fill-opacity="0.7" stroke="#0f7a2a"/>
-    <line x1="28" y1="102" x2="388" y2="102" stroke="#0f7a2a"/>
-    <text x="42" y="93" font-family="Courier New, monospace" font-size="10" fill="#86efac">▪ block-breaker-2025</text>
-    <circle cx="372" cy="89" r="3.5" fill="#16a34a"/>
-    <text x="42" y="132" font-family="Courier New, monospace" font-size="16" font-weight="700" fill="#22c55e">block-breaker-2025 _</text>
-    <text x="42" y="154" font-family="Courier New, monospace" font-size="11" fill="#86efac">Arcade brick-breaker game, OOP in Java</text>
-    <rect x="42" y="172" width="44" height="18" rx="9" fill="#052e16" stroke="#15803d"/>
-    <text x="64" y="185" text-anchor="middle" font-family="Courier New, monospace" font-size="10" fill="#4ade80">Java</text>
+    <rect x="28" y="76" width="360" height="150" rx="12" fill="#120903" fill-opacity="0.7" stroke="#8a4a1c"/>
+    <line x1="28" y1="102" x2="388" y2="102" stroke="#8a4a1c"/>
+    <text x="42" y="93" font-family="Courier New, monospace" font-size="10" fill="#f8c99a">▪ block-breaker-2025</text>
+    <circle cx="372" cy="89" r="3.5" fill="#d9661f"/>
+    <text x="42" y="132" font-family="Courier New, monospace" font-size="16" font-weight="700" fill="#f0782d">block-breaker-2025 _</text>
+    <text x="42" y="154" font-family="Courier New, monospace" font-size="11" fill="#f8c99a">Arcade brick-breaker game, OOP in Java</text>
+    <rect x="42" y="172" width="44" height="18" rx="9" fill="#2e1608" stroke="#a8521c"/>
+    <text x="64" y="185" text-anchor="middle" font-family="Courier New, monospace" font-size="10" fill="#fb9a4b">Java</text>
     <text x="42" y="212" font-family="Courier New, monospace" font-size="11" fill="#f59e0b">★</text>
-    <text x="56" y="212" font-family="Courier New, monospace" font-size="11" fill="#86efac">3</text>
+    <text x="56" y="212" font-family="Courier New, monospace" font-size="11" fill="#f8c99a">3</text>
     <g transform="translate(346 150)">
       <circle r="22" fill="none" stroke="#3b2a0a" stroke-width="6"/>
       <circle r="22" fill="none" stroke="#c98a1a" stroke-width="6" stroke-dasharray="138.2 138.2" transform="rotate(-90)"/>
@@ -36,16 +36,16 @@
 
   <!-- card 2 -->
   <g>
-    <rect x="412" y="76" width="360" height="150" rx="12" fill="#031208" fill-opacity="0.7" stroke="#0f7a2a"/>
-    <line x1="412" y1="102" x2="772" y2="102" stroke="#0f7a2a"/>
-    <text x="426" y="93" font-family="Courier New, monospace" font-size="10" fill="#86efac">▪ Proyecto-SIA-Programacion-Avanzada</text>
-    <circle cx="756" cy="89" r="3.5" fill="#16a34a"/>
-    <text x="426" y="132" font-family="Courier New, monospace" font-size="15" font-weight="700" fill="#22c55e">Proyecto-SIA-Programaci… _</text>
-    <text x="426" y="154" font-family="Courier New, monospace" font-size="11" fill="#86efac">Event management system (SIA)</text>
-    <rect x="426" y="172" width="44" height="18" rx="9" fill="#052e16" stroke="#15803d"/>
-    <text x="448" y="185" text-anchor="middle" font-family="Courier New, monospace" font-size="10" fill="#4ade80">Java</text>
+    <rect x="412" y="76" width="360" height="150" rx="12" fill="#120903" fill-opacity="0.7" stroke="#8a4a1c"/>
+    <line x1="412" y1="102" x2="772" y2="102" stroke="#8a4a1c"/>
+    <text x="426" y="93" font-family="Courier New, monospace" font-size="10" fill="#f8c99a">▪ Proyecto-SIA-Programacion-Avanzada</text>
+    <circle cx="756" cy="89" r="3.5" fill="#d9661f"/>
+    <text x="426" y="132" font-family="Courier New, monospace" font-size="15" font-weight="700" fill="#f0782d">Proyecto-SIA-Programaci… _</text>
+    <text x="426" y="154" font-family="Courier New, monospace" font-size="11" fill="#f8c99a">Event management system (SIA)</text>
+    <rect x="426" y="172" width="44" height="18" rx="9" fill="#2e1608" stroke="#a8521c"/>
+    <text x="448" y="185" text-anchor="middle" font-family="Courier New, monospace" font-size="10" fill="#fb9a4b">Java</text>
     <text x="426" y="212" font-family="Courier New, monospace" font-size="11" fill="#f59e0b">★</text>
-    <text x="440" y="212" font-family="Courier New, monospace" font-size="11" fill="#86efac">2</text>
+    <text x="440" y="212" font-family="Courier New, monospace" font-size="11" fill="#f8c99a">2</text>
     <g transform="translate(730 150)">
       <circle r="22" fill="none" stroke="#3b2a0a" stroke-width="6"/>
       <circle r="22" fill="none" stroke="#c98a1a" stroke-width="6" stroke-dasharray="134.1 138.2" transform="rotate(-90)"/>
@@ -55,15 +55,15 @@
 
   <!-- card 3 -->
   <g>
-    <rect x="28" y="246" width="360" height="150" rx="12" fill="#031208" fill-opacity="0.7" stroke="#0f7a2a"/>
-    <line x1="28" y1="272" x2="388" y2="272" stroke="#0f7a2a"/>
-    <text x="42" y="263" font-family="Courier New, monospace" font-size="10" fill="#86efac">▪ MuniStoDomingo-Tramites</text>
-    <circle cx="372" cy="259" r="3.5" fill="#16a34a"/>
-    <text x="42" y="302" font-family="Courier New, monospace" font-size="15" font-weight="700" fill="#22c55e">MuniStoDomingo-Tramites _</text>
-    <text x="42" y="324" font-family="Courier New, monospace" font-size="11" fill="#86efac">Online municipal services portal</text>
-    <rect x="42" y="342" width="44" height="18" rx="9" fill="#052e16" stroke="#15803d"/>
-    <text x="64" y="355" text-anchor="middle" font-family="Courier New, monospace" font-size="10" fill="#4ade80">Web</text>
-    <text x="42" y="382" font-family="Courier New, monospace" font-size="11" fill="#86efac">HTML · CSS · JavaScript</text>
+    <rect x="28" y="246" width="360" height="150" rx="12" fill="#120903" fill-opacity="0.7" stroke="#8a4a1c"/>
+    <line x1="28" y1="272" x2="388" y2="272" stroke="#8a4a1c"/>
+    <text x="42" y="263" font-family="Courier New, monospace" font-size="10" fill="#f8c99a">▪ MuniStoDomingo-Tramites</text>
+    <circle cx="372" cy="259" r="3.5" fill="#d9661f"/>
+    <text x="42" y="302" font-family="Courier New, monospace" font-size="15" font-weight="700" fill="#f0782d">MuniStoDomingo-Tramites _</text>
+    <text x="42" y="324" font-family="Courier New, monospace" font-size="11" fill="#f8c99a">Online municipal services portal</text>
+    <rect x="42" y="342" width="44" height="18" rx="9" fill="#2e1608" stroke="#a8521c"/>
+    <text x="64" y="355" text-anchor="middle" font-family="Courier New, monospace" font-size="10" fill="#fb9a4b">Web</text>
+    <text x="42" y="382" font-family="Courier New, monospace" font-size="11" fill="#f8c99a">HTML · CSS · JavaScript</text>
     <g transform="translate(346 320)">
       <circle r="22" fill="none" stroke="#3b2a0a" stroke-width="6"/>
       <circle r="22" fill="none" stroke="#c98a1a" stroke-width="6" stroke-dasharray="124.4 138.2" transform="rotate(-90)"/>
@@ -73,16 +73,16 @@
 
   <!-- card 4 -->
   <g>
-    <rect x="412" y="246" width="360" height="150" rx="12" fill="#031208" fill-opacity="0.7" stroke="#0f7a2a"/>
-    <line x1="412" y1="272" x2="772" y2="272" stroke="#0f7a2a"/>
-    <text x="426" y="263" font-family="Courier New, monospace" font-size="10" fill="#86efac">▪ INF2223-Estructura-de-Datos</text>
-    <circle cx="756" cy="259" r="3.5" fill="#16a34a"/>
-    <text x="426" y="302" font-family="Courier New, monospace" font-size="15" font-weight="700" fill="#22c55e">INF2223-Estructura-de… _</text>
-    <text x="426" y="324" font-family="Courier New, monospace" font-size="11" fill="#86efac">Trees, linked lists &amp; ADTs in C</text>
-    <rect x="426" y="342" width="44" height="18" rx="9" fill="#052e16" stroke="#15803d"/>
-    <text x="448" y="355" text-anchor="middle" font-family="Courier New, monospace" font-size="10" fill="#4ade80">C</text>
+    <rect x="412" y="246" width="360" height="150" rx="12" fill="#120903" fill-opacity="0.7" stroke="#8a4a1c"/>
+    <line x1="412" y1="272" x2="772" y2="272" stroke="#8a4a1c"/>
+    <text x="426" y="263" font-family="Courier New, monospace" font-size="10" fill="#f8c99a">▪ INF2223-Estructura-de-Datos</text>
+    <circle cx="756" cy="259" r="3.5" fill="#d9661f"/>
+    <text x="426" y="302" font-family="Courier New, monospace" font-size="15" font-weight="700" fill="#f0782d">INF2223-Estructura-de… _</text>
+    <text x="426" y="324" font-family="Courier New, monospace" font-size="11" fill="#f8c99a">Trees, linked lists &amp; ADTs in C</text>
+    <rect x="426" y="342" width="44" height="18" rx="9" fill="#2e1608" stroke="#a8521c"/>
+    <text x="448" y="355" text-anchor="middle" font-family="Courier New, monospace" font-size="10" fill="#fb9a4b">C</text>
     <text x="426" y="382" font-family="Courier New, monospace" font-size="11" fill="#f59e0b">★</text>
-    <text x="440" y="382" font-family="Courier New, monospace" font-size="11" fill="#86efac">1</text>
+    <text x="440" y="382" font-family="Courier New, monospace" font-size="11" fill="#f8c99a">1</text>
     <g transform="translate(730 320)">
       <circle r="22" fill="none" stroke="#3b2a0a" stroke-width="6"/>
       <circle r="22" fill="none" stroke="#c98a1a" stroke-width="6" stroke-dasharray="138.2 138.2" transform="rotate(-90)"/>

@@ -1,69 +1,69 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="330" viewBox="0 0 800 330" role="img" aria-label="Tech stack">
   <defs>
     <radialGradient id="g" cx="80%" cy="0%" r="70%">
-      <stop offset="0%" stop-color="#0a8f1a" stop-opacity="0.5"/>
-      <stop offset="100%" stop-color="#0a8f1a" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#b8561a" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#b8561a" stop-opacity="0"/>
     </radialGradient>
     <clipPath id="clip"><rect x="2" y="2" width="796" height="326" rx="22"/></clipPath>
   </defs>
 
-  <rect x="2" y="2" width="796" height="326" rx="22" fill="#04140a" stroke="#0f7a2a" stroke-width="1.5"/>
+  <rect x="2" y="2" width="796" height="326" rx="22" fill="#150b04" stroke="#8a4a1c" stroke-width="1.5"/>
   <g clip-path="url(#clip)"><rect width="800" height="330" fill="url(#g)"/></g>
 
-  <text x="28" y="44" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#22c55e" letter-spacing="2">TECH.STACK</text>
-  <text x="150" y="44" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#86efac"><tspan fill="#22c55e">$</tspan> cat ~/.stack</text>
-  <text x="772" y="44" text-anchor="end" font-family="Courier New, monospace" font-size="11" fill="#4ade80">21 tools</text>
-  <line x1="28" y1="58" x2="772" y2="58" stroke="#0f7a2a"/>
+  <text x="28" y="44" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#f0782d" letter-spacing="2">TECH.STACK</text>
+  <text x="150" y="44" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#f8c99a"><tspan fill="#f0782d">$</tspan> cat ~/.stack</text>
+  <text x="772" y="44" text-anchor="end" font-family="Courier New, monospace" font-size="11" fill="#fb9a4b">21 tools</text>
+  <line x1="28" y1="58" x2="772" y2="58" stroke="#8a4a1c"/>
 
-  <text x="28" y="97" font-family="Courier New, monospace" font-size="11" font-weight="700" fill="#4ade80" letter-spacing="2">LANGUAGES</text>
-  <rect x="160" y="81" width="34" height="24" rx="12" fill="#052e16" stroke="#15803d"/>
-  <text x="177" y="97" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#86efac">C</text>
-  <rect x="204" y="81" width="57" height="24" rx="12" fill="#052e16" stroke="#15803d"/>
-  <text x="232.5" y="97" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#86efac">Java</text>
-  <rect x="271" y="81" width="73" height="24" rx="12" fill="#052e16" stroke="#15803d"/>
-  <text x="307.5" y="97" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#86efac">Python</text>
-  <rect x="354" y="81" width="104" height="24" rx="12" fill="#052e16" stroke="#15803d"/>
-  <text x="406" y="97" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#86efac">JavaScript</text>
-  <rect x="468" y="81" width="104" height="24" rx="12" fill="#052e16" stroke="#15803d"/>
-  <text x="520" y="97" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#86efac">TypeScript</text>
-  <rect x="582" y="81" width="49" height="24" rx="12" fill="#052e16" stroke="#15803d"/>
-  <text x="606.5" y="97" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#86efac">SQL</text>
-  <line x1="28" y1="117" x2="772" y2="117" stroke="#0f7a2a" stroke-opacity="0.35" stroke-dasharray="2 4"/>
-  <text x="28" y="143" font-family="Courier New, monospace" font-size="11" font-weight="700" fill="#4ade80" letter-spacing="2">FRONTEND</text>
-  <rect x="160" y="127" width="65" height="24" rx="12" fill="#052e16" stroke="#15803d"/>
-  <text x="192.5" y="143" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#86efac">HTML5</text>
-  <rect x="235" y="127" width="57" height="24" rx="12" fill="#052e16" stroke="#15803d"/>
-  <text x="263.5" y="143" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#86efac">CSS3</text>
-  <rect x="302" y="127" width="65" height="24" rx="12" fill="#052e16" stroke="#15803d"/>
-  <text x="334.5" y="143" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#86efac">React</text>
-  <rect x="377" y="127" width="81" height="24" rx="12" fill="#052e16" stroke="#15803d"/>
-  <text x="417.5" y="143" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#86efac">Next.js</text>
-  <line x1="28" y1="163" x2="772" y2="163" stroke="#0f7a2a" stroke-opacity="0.35" stroke-dasharray="2 4"/>
-  <text x="28" y="189" font-family="Courier New, monospace" font-size="11" font-weight="700" fill="#4ade80" letter-spacing="2">BACKEND</text>
-  <rect x="160" y="173" width="81" height="24" rx="12" fill="#052e16" stroke="#15803d"/>
-  <text x="200.5" y="189" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#86efac">Node.js</text>
-  <rect x="251" y="173" width="81" height="24" rx="12" fill="#052e16" stroke="#15803d"/>
-  <text x="291.5" y="189" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#86efac">Express</text>
-  <rect x="342" y="173" width="96" height="24" rx="12" fill="#052e16" stroke="#15803d"/>
-  <text x="390" y="189" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#86efac">REST APIs</text>
-  <line x1="28" y1="209" x2="772" y2="209" stroke="#0f7a2a" stroke-opacity="0.35" stroke-dasharray="2 4"/>
-  <text x="28" y="235" font-family="Courier New, monospace" font-size="11" font-weight="700" fill="#4ade80" letter-spacing="2">DEVOPS</text>
-  <rect x="160" y="219" width="49" height="24" rx="12" fill="#052e16" stroke="#15803d"/>
-  <text x="184.5" y="235" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#86efac">Git</text>
-  <rect x="219" y="219" width="73" height="24" rx="12" fill="#052e16" stroke="#15803d"/>
-  <text x="255.5" y="235" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#86efac">GitHub</text>
-  <rect x="302" y="219" width="73" height="24" rx="12" fill="#052e16" stroke="#15803d"/>
-  <text x="338.5" y="235" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#86efac">Docker</text>
-  <rect x="385" y="219" width="65" height="24" rx="12" fill="#052e16" stroke="#15803d"/>
-  <text x="417.5" y="235" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#86efac">Linux</text>
-  <rect x="460" y="219" width="57" height="24" rx="12" fill="#052e16" stroke="#15803d"/>
-  <text x="488.5" y="235" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#86efac">Bash</text>
-  <line x1="28" y1="255" x2="772" y2="255" stroke="#0f7a2a" stroke-opacity="0.35" stroke-dasharray="2 4"/>
-  <text x="28" y="281" font-family="Courier New, monospace" font-size="11" font-weight="700" fill="#4ade80" letter-spacing="2">DESIGN</text>
-  <rect x="160" y="265" width="65" height="24" rx="12" fill="#052e16" stroke="#15803d"/>
-  <text x="192.5" y="281" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#86efac">Figma</text>
-  <rect x="235" y="265" width="81" height="24" rx="12" fill="#052e16" stroke="#15803d"/>
-  <text x="275.5" y="281" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#86efac">draw.io</text>
-  <rect x="326" y="265" width="49" height="24" rx="12" fill="#052e16" stroke="#15803d"/>
-  <text x="350.5" y="281" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#86efac">UML</text>
+  <text x="28" y="97" font-family="Courier New, monospace" font-size="11" font-weight="700" fill="#fb9a4b" letter-spacing="2">LANGUAGES</text>
+  <rect x="160" y="81" width="34" height="24" rx="12" fill="#2e1608" stroke="#a8521c"/>
+  <text x="177" y="97" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#f8c99a">C</text>
+  <rect x="204" y="81" width="57" height="24" rx="12" fill="#2e1608" stroke="#a8521c"/>
+  <text x="232.5" y="97" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#f8c99a">Java</text>
+  <rect x="271" y="81" width="73" height="24" rx="12" fill="#2e1608" stroke="#a8521c"/>
+  <text x="307.5" y="97" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#f8c99a">Python</text>
+  <rect x="354" y="81" width="104" height="24" rx="12" fill="#2e1608" stroke="#a8521c"/>
+  <text x="406" y="97" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#f8c99a">JavaScript</text>
+  <rect x="468" y="81" width="104" height="24" rx="12" fill="#2e1608" stroke="#a8521c"/>
+  <text x="520" y="97" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#f8c99a">TypeScript</text>
+  <rect x="582" y="81" width="49" height="24" rx="12" fill="#2e1608" stroke="#a8521c"/>
+  <text x="606.5" y="97" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#f8c99a">SQL</text>
+  <line x1="28" y1="117" x2="772" y2="117" stroke="#8a4a1c" stroke-opacity="0.35" stroke-dasharray="2 4"/>
+  <text x="28" y="143" font-family="Courier New, monospace" font-size="11" font-weight="700" fill="#fb9a4b" letter-spacing="2">FRONTEND</text>
+  <rect x="160" y="127" width="65" height="24" rx="12" fill="#2e1608" stroke="#a8521c"/>
+  <text x="192.5" y="143" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#f8c99a">HTML5</text>
+  <rect x="235" y="127" width="57" height="24" rx="12" fill="#2e1608" stroke="#a8521c"/>
+  <text x="263.5" y="143" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#f8c99a">CSS3</text>
+  <rect x="302" y="127" width="65" height="24" rx="12" fill="#2e1608" stroke="#a8521c"/>
+  <text x="334.5" y="143" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#f8c99a">React</text>
+  <rect x="377" y="127" width="81" height="24" rx="12" fill="#2e1608" stroke="#a8521c"/>
+  <text x="417.5" y="143" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#f8c99a">Next.js</text>
+  <line x1="28" y1="163" x2="772" y2="163" stroke="#8a4a1c" stroke-opacity="0.35" stroke-dasharray="2 4"/>
+  <text x="28" y="189" font-family="Courier New, monospace" font-size="11" font-weight="700" fill="#fb9a4b" letter-spacing="2">BACKEND</text>
+  <rect x="160" y="173" width="81" height="24" rx="12" fill="#2e1608" stroke="#a8521c"/>
+  <text x="200.5" y="189" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#f8c99a">Node.js</text>
+  <rect x="251" y="173" width="81" height="24" rx="12" fill="#2e1608" stroke="#a8521c"/>
+  <text x="291.5" y="189" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#f8c99a">Express</text>
+  <rect x="342" y="173" width="96" height="24" rx="12" fill="#2e1608" stroke="#a8521c"/>
+  <text x="390" y="189" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#f8c99a">REST APIs</text>
+  <line x1="28" y1="209" x2="772" y2="209" stroke="#8a4a1c" stroke-opacity="0.35" stroke-dasharray="2 4"/>
+  <text x="28" y="235" font-family="Courier New, monospace" font-size="11" font-weight="700" fill="#fb9a4b" letter-spacing="2">DEVOPS</text>
+  <rect x="160" y="219" width="49" height="24" rx="12" fill="#2e1608" stroke="#a8521c"/>
+  <text x="184.5" y="235" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#f8c99a">Git</text>
+  <rect x="219" y="219" width="73" height="24" rx="12" fill="#2e1608" stroke="#a8521c"/>
+  <text x="255.5" y="235" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#f8c99a">GitHub</text>
+  <rect x="302" y="219" width="73" height="24" rx="12" fill="#2e1608" stroke="#a8521c"/>
+  <text x="338.5" y="235" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#f8c99a">Docker</text>
+  <rect x="385" y="219" width="65" height="24" rx="12" fill="#2e1608" stroke="#a8521c"/>
+  <text x="417.5" y="235" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#f8c99a">Linux</text>
+  <rect x="460" y="219" width="57" height="24" rx="12" fill="#2e1608" stroke="#a8521c"/>
+  <text x="488.5" y="235" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#f8c99a">Bash</text>
+  <line x1="28" y1="255" x2="772" y2="255" stroke="#8a4a1c" stroke-opacity="0.35" stroke-dasharray="2 4"/>
+  <text x="28" y="281" font-family="Courier New, monospace" font-size="11" font-weight="700" fill="#fb9a4b" letter-spacing="2">DESIGN</text>
+  <rect x="160" y="265" width="65" height="24" rx="12" fill="#2e1608" stroke="#a8521c"/>
+  <text x="192.5" y="281" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#f8c99a">Figma</text>
+  <rect x="235" y="265" width="81" height="24" rx="12" fill="#2e1608" stroke="#a8521c"/>
+  <text x="275.5" y="281" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#f8c99a">draw.io</text>
+  <rect x="326" y="265" width="49" height="24" rx="12" fill="#2e1608" stroke="#a8521c"/>
+  <text x="350.5" y="281" text-anchor="middle" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#f8c99a">UML</text>
 </svg>
