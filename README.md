@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/portrait-light.png">
-  <img align="right" src="assets/portrait-light.png" width="363" alt="Retrato de Tomás Monge en arte de puntos">
+  <img align="right" src="assets/portrait-light.png" width="321" alt="Retrato de Tomás Monge en arte de puntos">
 </picture>
 
 ```yaml
