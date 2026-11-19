@@ -35,11 +35,10 @@
 
 ```
 ~/projects
-├── block-breaker-2025                  Java   Arcade brick-breaker, POO
-├── Proyecto-SIA-Programacion-Avanzada  Java   Sistema de gestión de eventos
-├── MuniStoDomingo-Tramites             Web    Portal municipal de trámites online
-├── INF2223-Estructura-de-Datos         C      Árboles, listas enlazadas y TDAs
-└── ConTribuIr                          PHP    Proyecto privado
+├── block-breaker-2025                  Java         Arcade brick-breaker, POO
+├── Proyecto-SIA-Programacion-Avanzada  Java         Sistema de gestión de eventos
+├── MuniStoDomingo-Tramites             Ionic/React  Portal municipal de trámites online
+└── ConTribuIr                          Laravel      Sitio Web E-learning para una ONG
 ```
 
 <p align="center">
