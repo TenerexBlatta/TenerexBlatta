@@ -4,41 +4,44 @@
   <img align="right" src="assets/portrait-light.png" width="363" alt="Retrato de Tomás Monge en arte de puntos">
 </picture>
 
-```
-┌─[ tenerexblatta@github ]─────────────────────────────────┐
-│                                                          │
-│  $ whoami                                                │
-│    Tomás Monge                                           │
-│                                                          │
-│  $ cat role.txt                                          │
-│    Estudiante de Ingeniería en Informática               │
-│    Full-stack web · Sistemas                             │
-│                                                          │
-│  $ echo $LOCATION                                        │
-│    Viña del Mar, Chile                                   │
-│                                                          │
-│  $ cat ~/.stack                                          │
-│    langs   C · Java · Python · JavaScript · TypeScript   │
-│            SQL                                           │
-│    front   HTML5 · CSS3 · React · Next.js                │
-│    back    Node.js · Express · REST APIs                 │
-│    devops  Git · GitHub · Docker · Linux · Bash          │
-│    design  Figma · draw.io · UML                         │
-│                                                          │
-│  $ ./status.sh                                           │
-│    [■■■■■■■■■■] Building                                 │
-│    [■■■■■■■■■■] Learning                                 │
-│    [■■■■■■■■■■] Shipping                                 │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
+```yaml
+# tenerexblatta@github:~$ cat about.yml
+
+name:      Tomás Monge
+role:      Estudiante de Ingeniería en Informática
+focus:     Full-stack web · Sistemas
+location:  Viña del Mar, Chile
+
+stack:
+  langs:   C · Java · Python · JavaScript · TypeScript · SQL
+  front:   HTML5 · CSS3 · React · Next.js
+  back:    Node.js · Express · REST APIs
+  devops:  Git · GitHub · Docker · Linux · Bash
+  design:  Figma · draw.io · UML
+
+status:
+  building:  ■■■■■■■■■■
+  learning:  ■■■■■■■■■■
+  shipping:  ■■■■■■■■■■
+
+links:
+  github:  github.com/tenerexblatta
+  web:     tenerex.cl
+
+
+
+
 
 ```
-~/projects
-├── block-breaker-2025                  Java         Arcade brick-breaker, POO
-├── Proyecto-SIA-Programacion-Avanzada  Java         Sistema de gestión de eventos
-├── MuniStoDomingo-Tramites             Ionic/React  Portal municipal de trámites online
-└── ConTribuIr                          Laravel      Sitio Web E-learning para una ONG
+
+<br clear="right">
+
+```yaml
+# ~/projects
+├── block-breaker-2025:                 Java         Arcade brick-breaker, POO
+├── Proyecto-SIA-Programacion-Avanzada: Java         Sistema de gestión de eventos
+├── MuniStoDomingo-Tramites:            Ionic/React  Portal municipal de trámites online
+└── ConTribuIr:                         Laravel      Sitio Web E-learning para una ONG
 ```
 
 <p align="center">
